@@ -1,0 +1,9 @@
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\bin\Release\Watch Sync.exe.config
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\bin\Release\Watch Sync.exe
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\bin\Release\Watch Sync.pdb
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Release\Watch_Sync.Form1.resources
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Release\Watch_Sync.Properties.Resources.resources
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Release\Watch Sync.csproj.GenerateResource.cache
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Release\Watch Sync.csproj.CoreCompileInputs.cache
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Release\Watch Sync.exe
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Release\Watch Sync.pdb

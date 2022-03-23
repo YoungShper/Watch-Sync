@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watch Sync", "Watch Sync\Watch Sync.csproj", "{2BC301DD-647C-4CD3-B0CB-F6DBABAE61EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC301DD-647C-4CD3-B0CB-F6DBABAE61EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC301DD-647C-4CD3-B0CB-F6DBABAE61EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC301DD-647C-4CD3-B0CB-F6DBABAE61EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC301DD-647C-4CD3-B0CB-F6DBABAE61EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9043D3D-C7C2-4EC1-92C3-C2465D0237C9}
+	EndGlobalSection
+EndGlobal

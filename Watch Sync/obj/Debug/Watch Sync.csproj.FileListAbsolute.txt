@@ -1,0 +1,10 @@
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\bin\Debug\Watch Sync.exe.config
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\bin\Debug\Watch Sync.exe
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\bin\Debug\Watch Sync.pdb
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Debug\Watch Sync.csproj.AssemblyReference.cache
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Debug\Watch_Sync.Form1.resources
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Debug\Watch_Sync.Properties.Resources.resources
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Debug\Watch Sync.csproj.GenerateResource.cache
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Debug\Watch Sync.csproj.CoreCompileInputs.cache
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Debug\Watch Sync.exe
+C:\Users\Шпер\source\repos\Watch Sync\Watch Sync\obj\Debug\Watch Sync.pdb
